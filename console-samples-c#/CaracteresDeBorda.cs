@@ -34,6 +34,8 @@ namespace Ascii
 				
 		}
 		
+		// veja mais em : http://en.wikipedia.org/wiki/Box-drawing_character
+		//
 		static void caixa(int largura, int altura){
 			
 			int linhasDoMeio = altura - 2;

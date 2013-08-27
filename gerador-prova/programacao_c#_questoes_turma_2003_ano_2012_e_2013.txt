@@ -1,0 +1,660 @@
+﻿--1. Estrutura de controle (for,while,if)\
+
+1. (Zwickau) Faça um sistema com for, em que, o console escreva uma frase a cada 2 linhas. O
+programa terá quinze frases. Utilizando o console. \
+
+2. (Zwickau) Faça um programa que dará uma sequencia de uma PG com as seguintes condições: 1- O
+usuario deverá dizer o numero de termos que a pg deve ter. 2- Ser feito com for. 3- O usuário
+escolherá a razão(o número que multiplicará). Utilizando o console. \
+
+3. (Zwickau) Faça uma calculadora simples que calcule a multiplicação, divisão, subtração e adição
+ao mesmo tempo com dois valores que serão fornecidos pelo usuário. Utilizando o console. \
+
+4. (Leipzig) Escreva um for e um if, que resolvam o seguinte problema : Em uma empresa, existem 2456
+funcionários, se o número de funcionários for mais de 3000, demita um funcionário. O número de
+funcionários da empresa, cresce em média de 4 por dia. \
+
+5. (Frankfurt) Imprima no console a tabuada de qualquer número fornecido pelo usuario, usando os
+tipos de repetição: While - For. \
+
+6. (Frankfurt) Imprimir os divisores de um número qualquer. Para cada número lido, mostre o próprio
+número e seus divisores \
+
+7. (Frankfurt) Calcular e imprimir a soma dos números naturais de 1 a 100 usando o comando For e o
+comando While \
+
+8. (Leipzig) Escreva um while, que resolva o seguinte problema : Durante a segunda guerra mundial,
+morreram cerca de 6.000.000 judeus. Para acabar com o problema, crie um judeu até que retorne a
+quantidade original de judeus. \
+
+10. (Hof) Crie por código um botão e dois quadrados, e quando o usuário clica no botão, muda a cor
+dos quadrados. \
+
+11. (Hof) Construa um programa que divida de forma proporcional ao o tamanho das pessoas quantidade
+de pedaços de pizza existente.
+Pessoa 1 - 1,80 
+Pessoa 2 - 1,50 
+Pessoa 3 - 1,75 
+Pedaços de Pizza - 27 \
+
+12. (Hof) Imprima no console uma tabela de cadastro que tenha como itens principais( Nome e Data de
+Aniversário) e que quando uma data de aniversario for digitada apareça o no da pessoa e parabens ao
+lado. \
+
+14. (Eutin) Faça um sorteio de um numero entre 0 e 50, e depois imprima esse valor no console. \
+
+15. (Eutin) Imprima no console os múltiplos de 5 menores que o 499. \
+
+16. (Mettmann) Faça um programa em que você digite dois números e seja imprimido todos os números do
+primeiro número que você digitou ao segundo número que você digitou, inclusive os números
+digitados.(válido só para inteiros) \
+
+17. (Mettmann) Faça um programa onde o usuário digite quatro notas e a média da escola, e o programa
+imprima se ele passou ou nao na escola. \
+
+18. (Mettmann) Crie um programa em que você digite uma quantidade de refrigerante e ele imprima
+"copo cheio" até acabar a quantidade determinada inicialmente. No final imprima a quantidade de
+copos que foram enchidos, considerando que o copo tem 220ml. E se sobrar, quanto sobrou do
+refrigerante. \
+
+19. (Freiburg)  Faça com que o programa sorteie um número aleatório de 1 a 10 que seja armazenada em
+uma variável. Em que o usuário tenha que acertar esse número, ao acertar apareça o número. \
+
+20. (Freiburg)  Faça uma array de 12 x 12, onde as posições iguais e pares sejam exibídas na tela
+com o número 1 e o resto com o número 0. \
+
+21. (Freiburg) Faça um While que diminua de forma regressiva (de 10 até 0), que quando entrar com a
+tecla “espaço” volte ao valor inicial. \
+
+22. (Fulda) Faça um "for" de número pares até 22. \
+
+23. (Fulda) Faça um calendário de três data importantes em diferentes meses. Quando apertar o número
+correspondente ao mês, aparecerá o evento. \
+
+25. (Adorf) Você foi contratado para uma fábrica de quadrados! Desenhe 5 quadrados no meio da tela
+com uma distância de um quadrado para receber seu salário. \
+
+26. (Adorf) Você tem uma fazenda e suas vacas estão fugindo. Faça uma condição para que se elas
+ultrapassarem os 4 limites da do console, voltem para o meio da tela. \
+
+27. (Adorf) Você foi sequestrado e para fugir use a sua capacidade de criar uma bomba. Crie um
+contador (use o while) que quando passar um minuto imprima no console "BOOM". \
+
+28. (Soltau)  Você foi contratado por um dono de uma concessionária para desenvolver um programa que
+consiste na realização de um sorteio do novo carro zero, onde as chances de ganhar seriam de 1%. No
+programa deve exibir uma das 2 possibilidades do sorteio, caso você consiga tirar esses 1% deve
+dizer "Você acaba de ganhar um carro ZERO quilômetro!" caso contrário "Que pena, você não ganhou
+nada". \
+
+28.5 - (Soltau) Faça um programa que o usuário insira um numero de negros e o numero de vagas, o
+programa vai imprimir quantos negros entraram nas cotas considerando que eles tem direito a 10%: \
+
+1 - (Kiwi) Utilizando a estrutura de controle "while", crie uma solução onde enquanto uma variável
+for verdadeira, o programa escreve "Kiwi FTW!", e quando for falsa, escreva "#chatiado". A variável
+muda de valor com o parâmetro que você preferir.\
+
+
+2 - (Kiwi) Crie uma PA com a1 igual 1 de 100 termos e some os termos maiores que 20 e menores que 80
+com razão 3;\
+
+
+3 - (Kiwi) Crie um código em que, ao usuário pressionar a tecla “a” o programa some "1" à uma
+variável, e que ao usuário pressionar a tecla “s” o programa subtraia "2" da mesma variável;\
+
+
+4 - (banana) No console use o “while” para criar uma estrutura que sirva como Update que some
+numeros randomicos entre 1 e 3 até somar 100.\
+
+
+5 - (banana) Crie um cronometro com “if” que funcione até chegar a cinquenta.\
+
+
+6 - (banana) Use o “for” para criar um mapa de inteiros e os imprima no console.\
+
+
+7 - (beterraba) Crie um cronômetro com "for". Quando o cronômetro chegar a 50 sair do for usando o
+"if".\
+
+
+8 - (beterraba) Utilizando "for", some somente os números pares até 100.\
+
+
+9 - (beterraba) Diga que enquanto uma variável for menor que 50, ele soma 1 nela.\
+
+
+10 - (Uva) Crie um for para somar os números de 500 a 1000. \
+
+
+11 - (Uva) Crie um for de 0 a 200 e mostre os números pares.\
+
+
+12 - (Uva) Crie um for de 0 a 1000 e mostre os números múltiplos de 5.\
+
+
+13 - (Caju) Crie um método para descobrir se a variável “numeroOculto” é múltiplo de sete ou
+múltiplo de 8 e divisível por 3.\
+
+
+14 - (Caju) Crie um algorítmo que verifique se a variável do tipo float “numeroOculto” é Maior do
+que 7 ou menor do que 1 e igual a 0.5. Caso seja, multiplique-a a fim de que se torne maior do que
+7.\
+
+
+15 - (Caju) Através do método que achar mais adequado, percorra o array de inteiros chamado
+“numerosOcultos” até o 50º elemento e verifique se os inteiros são ímpares. Caso sejam, diminua-os
+de 1.\
+
+
+16 - (Beringela) Crie um variável chamada "numero" e declare - a como 2. Usando o for, imprima na
+tela as 10 primeiras potências dessa variável. Ex: 2^1, 2^2, 2^3... 2^10.\
+
+17 - (Beringela) Crie uma variável do tipo inteiro que possua um valor randômico entre 0 e 20. Caso
+este valor seja menor do que 10, imprima na tela “É menor do que 10”. Caso seja maior do que 10,
+imprima na tela “É maior do que 10”.\
+
+18 - (Beringela) Crie 2 variáveis do tipo inteiro. Enquanto o valor da primeira for igual a 5, exiba
+o valor da 2ª variável na tela.\
+
+
+19 - (Laranjas) Se uma laranjeira dá 2mil laranjas por ano, e uma macieira dá 36 maçãs por dia, qual
+árvore dá mais frutas a cada hora ? Utilizando estruturas de controle, exiba uma string indicando 1
+dos casos.(while, for ou if)\
+
+20 - (Tamarindo) Dadas variáveis "ABC" e "DEF", sendo ABC = 50 e DEF = 5, crie uma função while para
+que se as variaveis possuírem o mesmo valor, termine  o while e escreva “ABC e DEF tem o mesmo
+valor”.
+\--2. Criação de classes\
+
+28.6 - (Soltau) Crie 4 classes divididas em: Classe "Programa", classe "troca de cena", classe
+"cena1", classe "cena2". Faça troca de cena com a "cena1", e "cena2" herdando o comportamento da
+classe "troca de cena". \
+
+29. (Zwickau) Crie uma calculadora com adição e subtração. Para isso divida ela em 3 classes: uma de
+programa e as outras duas referentes a cada operação. Quando o usuário digitar o sinal da operação
+calcular, o programa irá ler qual operação o usuario escolheu e usará o update da classe referente a
+operação. Utilizando console. \
+
+30. (Zwickau) Crie uma calculadora com adição e subtração. Para isso divida ela em 4 classes: uma de
+programa, uma classe de conta e as outras duas referentes a cada operação, as quais serão "filhas da
+classe operação". Quando o usuário digitar a operação que deseja calcular, o programa irá ler qual
+operação o usuario escolheu e usará o update da classe de conta que será substituida pelo update da
+classe herdada da mesma. Utilizando o console. \
+
+31. (Zwickau) Faça um pequeno formulário com três dados: nome, sexo e idade; sendo que, esses
+formulários serão gerados a partir de uma classe denominada "Pessoa" e que imprima as informações na
+tela. \
+
+32. (Eutin) Faça duas classes(classe 1 e classe 2),essas classes devem fucionar como um mini
+gerenciador de cena,da cena 1 para a cena 2 e da cena 2 para a cena 1,sendo que cada cena seja
+construída em uma classe diferente. \
+
+33. (Eutin) Crie 3 classes,a primeira classe deve conter uma variável do tipo string cujo o valor é
+escolhido pelo usuário,a terceira classe deve acessar e guardar essa string em uma variável local,e
+a segunda classe deve acessar a string da terceira e fazer com que o valor da string da primeira
+classe mude. \
+
+34. (Eutin) Crie uma classe(qualquer nome1)que imprima o valor de uma variável int declarada em uma
+outra classe (qualquer nome2). \
+
+35. (Frankfurt) Faça uma classe Conta que contenha o nome do cliente, o número da conta e o saldo.
+Estes valores deverão ser informados no construtor da classe. Faça um método depositar e um método
+sacar para realizar o depósito e saque de valores da conta. Faça um método obterSaldo que retorne o
+saldo do cliente. Faça um método obterNumero que retorne o número da conta. Faça um método
+obterNomeCliente que retorna o nome do cliente titular da conta. \
+
+36. (Frankfurt) Crie uma classe Ponto, com a capacidade de armazenar a localização de ponto no plano
+cartesiano, de modo que ela possua três construtores: um construtor sem parâmetros, que cria um
+ponto nas coordenadas (0,0), um construtor que recebe dois parâmetros de coordenadas X e Y, e um
+construtor que inicializa o ponto através das coordenadas de um outro ponto recebido como parâmetro.
+\
+
+37. (Frankfurt) Implemente uma classe Pessoa que possua como atributos nome, idade, peso (em
+quilogramas) e altura (em metros). Faça com que os dados sejam inicializados através do construtor
+da classe. Adicione métodos para ler e alterar cada um dos atributos em separado. \
+
+38. (Freiburg) Crie uma classe chamada “aluno” no qual vai conter nome, idade e sexo. com um metodo
+construtor que receba os atributos e os imprima na tela. \
+
+39. (Freiburg) Crie uma classe animal que contenha 5 atributos universais para animal. \
+
+41. (Fulda) Monte uma calculadora, usando a operação básica de sua escolha (adição, subtração,
+divisão ou multiplicação), onde a mesma seja montada na base de classes separadas possuindo apenas 2
+números. \
+
+
+43. (Fulda) Supondo que se queira fazer uma calculadora com "Text.Box" sendo que pode-se no máximo
+colocar 3 digitos e números, qual deve ser o procedimento a ser tomado. \
+
+44. (Adorf) Deus contratou você para gerenciar o dia e a noite enquanto ele está de férias. Organize
+em classes diferentes a classe principal, o dia, a noite e a gerência de cena (SceneManager). \
+
+45. (Adorf) Você dono de uma loja de Açaí e contratou três funcionários para trabalharem
+respectivamente em : Preparar o açaí, colocá-lo no copo e por o canudinho. Represente essas ações em
+classes diferentes,  debugando quando as ações acabam e chamando essas cenas, na classe principal. \
+
+
+48. (Leipzig) - Construa a classe "Pernas" e a faça escrever no console 3 strings da classe
+"Tuberculose" que ela vai receber. Cada string deve conter uma onomatopéia diferente relacionadas à
+tosse. \
+
+49. (Adorf) Você têm 5 carros, liste os nomes e os valores de cada um em suas respectivas classes  :
+"valores" e "nomes" e chame-os na classe principal. \
+
+50. (Hof) Crie uma classe que  calcule e mostre a quantidade de olhos em um grupo de 15 pessoas,
+sendo que 3 dessas pessoas são ciclopes(Os ciclopes são meus e tem um olho só) e 2 são o SlenderMan
+(lembrando que o Slender não tem face).
+
+\
+
+51. (Hof) Crie uma classe que funcione como uma calculadora de área de triângulos.
+
+\
+
+52. (Hof)  Crie uma classe com strings que formam uma frase aleatória toda vez que o código é
+debugado. \
+
+53. (Mettmann)Crie uma classe Hortifruti onde ela receba 7 tipos distintos de frutas. E faça-os
+imprimir na tela os tipos de frutas que foram armazenados. \
+
+54. (Mettmann)Crie uma classe personagem onde ele deve receber um array poção com dois tipos de
+poção e cada uma com um valor distinto. E faça-o imprimir na tela os dois tipos de poção e o seu
+valor. \
+
+55. (Mettmann)Crie uma classe farmácia onde ela tem que receber um array de 8 remédios e imprima o
+4º remédio. \
+
+22 - (Bananas) Crie uma classe com 10 atributos inteiros.\
+
+
+23 - (Bananas)Crie uma classe com atributos que se relacione com sua pessoa.\
+
+
+24 - (Bananas)Crie uma classe com no máximo 15 atributos sobre como fazer um bolo de chocolate.\
+
+
+25 - (Uva) Escolha um receita culinária que você goste e crie uma classe para ela, definindo seus
+ingredientes e suas quantidades.\
+
+
+26 - (Uva)Crie uma classe com 10 atributos relacionados a programação.\
+
+
+27 - (Uva)Crie duas classes de dois times de futebol, e ponha 3 atributos em cada uma.\
+
+
+28 - (Kiwi) Crie uma classe sobre o nave e dê 10 atributos;\
+
+
+29 - (Kiwi) Crie uma classe refeicao que possua como atributos, objetos de classes que representem
+os alimentos que compoe a sua refeicao; \
+
+
+30 - (Kiwi) Com base em algum jogo de rpg, crie três classes representando monstros com seus
+próprios atributos, e que herdem atributos de uma outra classe;\
+
+
+31 - (Laranjas) Crie classes e defina atributos sobre si mesmo, com no mínimo 5 classes e 10
+atributos.\
+
+
+32 - (Laranjas)  Realize a estruturação escolar através de classes, e defina atributos de acordo com
+a hierarquia escolar do NAVE.\
+
+33 - (Beterraba) Crie 2 classes. Uma possui uma variável com valor de 50, e modifique o valor dessa
+mesma variável na outra classe.\
+
+34 - (Beterraba) Crie 2 classes, em uma delas crie um método e execute-o na outra classe.\
+
+
+35 - (Beterraba) Crie uma classe com 10 atributos: 5 int, 2 string, 2 bool e 1 float.\
+
+
+36 - (Caju) Crie uma classe que use um método construtor para alterar ao menos dois atributos da
+classe.\
+
+
+37 - (Caju) Utilizando o conceito de Herança Crie 3 classes sobre Pessoa/Veículo sendo que uma
+classe tenha 4 atributos e a mesma receberá a herança de uma outra classe com 2 atributos e esta
+terá uma sub classe que faça sentido dentro do tema proposto.\
+
+
+38 - (Caju) Dê exemplos de cinco classes. Em seguida crie uma sub classe para cada uma
+respectivamente, de modo que faça sentido uma ser hierarquicamente inferior a outra.\
+
+
+39 - (Beringela) Crie uma classe chamada “Pessoa “ e de pelo menos 5 atributos a ela.\ 40 -
+(Beringela) Crie duas classes, onde uma herdará os atributos da outra e possuirá mais um atributo na
+classe secundária.\
+
+41 - (Beringela) Crie 2 classes com 3 atributos cada. Crie uma terceira classe que herde os
+atributos dessas 2 classes anteriores.
+
+\--3. Manipulação de array\
+
+56. (Zwickau)Faça um programa que escreva alguma letra do alfabeto utilizando um array bidimensional
+que dará as posições X e Y.O array tem que possuir pelo menos 10 posições diferentes e não se pode
+usar letras do alfabeto para compor a letra maior. \
+
+
+58. (Zwickau)Crie um programa que rolará dados (gerando números randômicos deles) em que, o usuário
+escolherá o número de dados rolados e o número de face dos dados; preencha um array com esses
+valores e imprima-os na tela. \
+
+59. (Leipzig)A cada mês, uma empresa recebe certa quantia que deve ser distribuída dentre 2 de seus
+setores, 2 de cada vez a cada mês receberão a quantia. Cada setor é representado por um número de
+código, primeiro setor o 0, o segundo:1 e assim continuamente até o sexto. (0,1,2,3,4,5); Faça um
+programa que gerencie, entregue a quantia a cada setor da empresa em um array durante 3 meses. \
+
+60. (Leipzig)Crie um programa que em arrays armazene os dados cadastrados, um array para cada dado.
+Dados: e-mail;nome;idade; Faça também, o programa apresentar os dados na tela. \
+
+61. (Leipzig)Faça um programa no qual dentro de um array que contenha os nomes dos participantes
+(Anderson, Alysson, Shanty, Wallace), faça o programa sortear o vencedor e imprimir na tela. \
+
+62. (Eutin)No console faça o desenho da letra L com no mínimo 10 caractéres na vertical e 4 na
+horizontal,utilizando array. \
+
+63. (Eutin)Declare um array de 10 índices e depois em um for atribua valores de números ímpares ao
+array. \
+
+64. (Eutin)Faça com que imprima a soma dos elementos de um array de indice 15  do tipo int. \
+
+65. (Hof) Crie um array com nome de no mínimo 10 cidades no qual toda vez que o código é rodado,
+mostra o nome de uma das cidades aleatoriamente. \
+
+67. (Hof) Crie um array com 6 números inteiros, e faça com que esse array mostre estes 6 numeros na
+tela em ordem decrescente. \
+
+
+69. (Fulda) Faça um código que, através de array, escreva esse embaralhado de letras "DULFA" na
+palavra  "Fulda" no Console Application. \
+
+71. (Freiburg) Percorra um array dos nomes das garotas da turma e exiba na tela. \
+
+72. (Freiburg)Faça um array de 5 valores onde as posições impares seja completada com nomes
+femininos e os pares com masculinos. \
+
+73. (Freiburg)Crie um array de 10 termos  que sorteie os termos e depois imprima o 4º termo. \
+
+74. (Mettmann)Crie um array de objetos filho com 10 filhos. E crie um método obedecer, percorrendo o
+array e aplicando a cada objeto o método citado. \
+
+75. (Mettmann)Crie um array do estoque de uma loja que precise armazenar 10 quantidades de sal, após
+percorrer o array, retire o 4º sal. \
+
+
+77. (Frankfurt)Crie um Array de cores de forma que elas apareçam aleatoriamente no background do
+console \
+
+
+79. (Frankfurt) Crie um aplicativo de console que Leia uma sequência de 20 números inteiros
+positivos e calcule a soma dos números menores do que 10. \
+
+80. (Adorf)Crie uma lista com 8 cores e debugue as 4 primeiras. \
+
+81. (Adorf) Crie três listas uma com 5 nomes, outra com 5 objetos (pertences pessoais),  o outro
+array chamando as duas listas conforme sua ordem > nome + objetos < e por fim debugando o resultado.
+\
+
+42 - (Kiwi) Crie uma array e a preencha de 0 a 100, depois randomize um numero e imprima;\
+
+
+43 - (Kiwi) Percorra o array de frases e no final informe o número de vogais;\
+
+
+44 - (Kiwi) Faça um array de 0 a 100 sorteie um valor para cada termo entre 0 e 9 e imprima os
+termos maiores que 5; \
+
+
+45 - (Uva) Crie um array de 1000 inteiros e preencha com 0 ou 1\
+
+
+46 - (Uva) Pegue a centésima posição de um array de 1000 inteiros e ponha um valor randomico entre 3
+e 6;\
+
+
+47 - (Uva) Randomize um array de 10 inteiros e ordene os números  de forma crescente.\
+
+
+48 - (Bananas) Crie um Array  de 10 valores inteiros com valores randomicos de 1 a 7 e Imprima - os
+no console:\
+
+
+49 - (Bananas) Crie um array de 12 posições com valores int ou string e só imprima no console as que
+as posições forem pares.\
+
+
+50 - (Bananas) Crie um array de string, com letras é imprima duas frases no console.\
+
+
+51 - (Beterraba) Atribua valores randomicos a um array de 100 inteiros.\
+
+
+52 - (Beterraba) Crie 2 arrays, e atribua os valores do primeiro no segundo.\
+
+
+53 - (Beterraba) Crie 1 array de 10 strings e sorteie uma posição do array para colocar a seguinte
+frase: Hamiltinho do gráfico. Imprima a frase no console.\
+
+
+54 - (Caju) Crie um array de inteiros com 10 elementos e escreva apenas os múltiplos de 3.\
+
+
+55 - (Caju) Crie um array de inteiros com 5 elementos em que o próximo seja o quadrado do anterior.\
+
+
+56 - (Caju) Crie um array de inteiros com 1000 elementos “Randômicos” e com “for” escreva apenas os
+números ímpares.\
+
+
+57 - (Beringela) Cria um array de inteiros de 100 elementos e de um valor random  de 0 a 10 para
+cada elemento, escrevendo na tela cada elemento.\
+
+
+58 - (Beringela)   Cria um array de 15 elementos que possuam valores aleatórios de 0 a 10,
+imprimindo na tela o 5º elemento desse array..\
+
+
+59 - (Beringela)  Crie 2 arrays em que, cada posição do 2° tenha valor igual a da posição inversa do
+primeiro.\
+
+
+60 - (Tamarindo) Fazer uma array de 5 componentes na qual você cria uma variável inteira e faz com
+que ela seja multiplicada pelos valores da array que você mesmo vai descrever.\
+
+
+61 - (Tamarindo) Fazer uma array de até 7 componentes na qual você deve colocar o valor de cada
+elemento e no final dizer quantos são os valores pares da array.\
+
+
+62 - (Tamarindo) Crie uma array de 6 valores e em cada valor você deve colocar um número e no final
+da operação você deve multiplicar todos os números.
+
+\--4. Manipulação de matrizes\
+
+82 - (Fulda) Faça com que o placar do jogo “Naverrrrrde” seja gravado num arquivo chamado
+placar.txt, sendo os dados finais da partida: TIME 1 = 30 e TIME 2 = 60 pontos. \
+
+83 - (Adorf) Faça um "txt" que guarde duas informações do usuário, seu nome e sua quantidade de
+mana. \
+
+84 - (Adorf) Faça um botão que quando executado, leia as informações do usuário no "txt". \
+
+85 - (Adorf) Faça uma contador até 7, um array de strings referentes a semanas, e imprima no texto a
+sequencia do contador e qual dia da semana é (EX : 1 - Domingo). \
+
+86 - (Zwickau) Faça uma matriz que leia um arquivo ".txt" e dê as posições de cada jogador nos eixos
+x e y.
+
+Conteúdo do txt: Ursinho-150-15 Game Over-150-30 \
+
+87 - (Fulda) Determine a soma de uma matriz [3, 3] no Console Application.\
+
+88 - (Fulda) Percorra uma matriz de números do tipo “int” de 9 elementos.\
+
+89 - (Fulda) Faça uma matriz de 3 posições em que a soma dos números da mesma seja igual a 20. \
+
+90 - (Adorf) Faça uma matriz em que a coluna diga os meses e suas linhas, as semanas.\
+
+91 - (Adorf) Faça uma matriz em que haja duas(2) colunas, uma com os nomes (pelo menos 4 nomes) e a
+outra com o nome do colégio em que estudam(consequentemente pelo menos 4 colégios). \
+
+92 - (Adorf) Faça uma matriz em que haja duas counas, uma com 4 frutas diferentes e a outra com seus
+respectivos preços.\
+
+63 - (Tamarindo) Crie uma matriz 5x5, onde os 24 espaços estarão preenchidos com um único caractere
+, e um dos espaços estará ocupado por um caractere de posição Random diferente dos outros.\
+
+
+65 - (Tamarindo) C Crie uma matriz em que na primeira e na ultima posição ela possua um valor de 10
+e nas outras posições ele possua multiplos do mesmo.\
+
+66 - (Kiwi) Crie uma matriz de 4x4 e depois sorteie um numero de 0 a 5 para cada termo;\
+
+
+67 - (Kiwi) Crie uma matriz 6x6, e sorteie um ponto aleatório e o exiba;\
+
+
+68 - (Kiwi) Crie uma matriz de 5x5, depois sorteie valores para todos mas só imprima os com valores
+menores que 5;\
+
+
+69 - (Bananas) Crie uma matriz de 4x4 e depois faça com que cada linha da matriz tenha um numero
+inteiro diferente.\
+
+
+70 - (Bananas) Crie uma matriz de 9x9 e uma variavel int = 0  e faça com que o centro, dessa matriz,
+seja um numero diferente.\
+
+
+71 - (Bananas) Crie uma matriz e imprima cada numero q foi passado no console.\
+
+
+72 - (Beterraba) Crie uma matriz de strings de 4x4 utilizando "for". O valor de cada linha deve
+alternar entre "o" e "x".\
+
+
+73 - (Beterraba) Crie uma matriz de inteiros 8x8 onde cada termo da matriz varie entre 0 e 1.\
+
+
+74 - (Beterraba) Crie uma matriz de inteiros, onde o tamanho dela seja um número randomizado entre 4
+e 20.\
+
+
+75 - (Uva) Faça um matriz 4x4 onde a primeira linha com números randomizados pares e a segunda com
+ímpar e assim sucessivamente. \
+
+
+76 - (Uva) Crie uma matriz com tamanho radomizado de 1 a 5, onde seja completa com números ímpares.\
+
+
+77 - (Uva) Crie uma matriz 8x8, onde faça um “X” via código preenchendo com número 1, exemplo:
+10000001 
+01000010 
+00100100 
+00011000 
+00011000 
+00100100 
+01000010 
+10000001 \
+
+
+79 - (Caju) Crie uma matriz de inteiros (3x3) e preencha a coluna do meio com o número 3.\
+
+
+80 - (Caju) Crie uma matriz de inteiros, na qual todos os elementos sejam 1 e os elementos da
+diagonal sejam todos 0.\
+
+
+81 - (Beringela)  Cria uma matriz de floats, com a dimensão 10x5, fazendo com que cada numero seja
+preenchido com um valor aleatorio.\
+
+
+82 - (Beringela)  Crie uma matriz de inteiros 5 x 5, onde os elementos da mesma sejam constituídos
+por números de 0 a 4 de forma randômica.\
+
+
+83 - (Beringela) Crie uma matriz 4x4 de inteiros onde os elementos que forem menores que 5, sejam
+iguais ao primeiro elemento, e o primeiro elemento seja obrigatoriamente maior que 5.
+
+\--5. Manipulação de arquivos texto (leitura e gravação e manipulação de strings)\
+
+82 - (Fulda) Faça com que o placar do jogo “Naverrrrrde” seja gravado num arquivo chamado
+placar.txt, sendo os dados finais da partida: TIME 1 = 30 e TIME 2 = 60 pontos. \
+
+83 - (Adorf) Faça um "txt" que guarde duas informações do usuário, seu nome e sua quantidade de
+mana. \
+
+84 - (Adorf) Faça um botão que quando executado, leia as informações do usuário no "txt". \
+
+85 - (Adorf) Faça uma contador até 7, um array de strings referentes a semanas, e imprima no texto a
+sequencia do contador e qual dia da semana é (EX : 1 - Domingo). \
+
+84 - (Kiwi)  Percorra uma frase e separe as vogais ;\
+
+85 - (Kiwi) Crie e grave um arquivo .txt com o nome do seu grupo;\
+
+86 - (Kiwi)Crie um programa que leia o nome de cada integrante do seu grupo e no final diga o número
+de consoantes;\
+
+88 - (Bananas) Crie uma função para ler um documento .txt:\
+
+89 - (Bananas) Crie uma matriz de string 6x6 declarando uma letra para cada valor, e imprima - os no
+console em ordem e com virgulas.\
+
+90 - (Uva) Ache o décimo quinto caracter de um texto.\
+
+
+91 - (Uva) Salve um arquivo de texto, onde peça ao usuário o nome dele, e salve no “Meus
+Documentos”.\
+
+
+92 - (Uva) Pegue uma frase e diga quantas letras “a”, tem nessa frase.\
+
+
+93 - (Beterraba) salve em um arquivo de texto a frase : 
+"Boiuna s2 Carla, Hugo s2 Tham, Pablo s2 Jéssica e Igor s2 ..."
+\
+
+
+94 - (Beterraba) Pegue um arquivo de texto e o converta em um array de char.
+\
+
+
+95 - (Beterraba) Salve um arquivo de texto no diretório corrente da aplicação.
+\
+
+
+96 - (Caju) Desenhe um quadrado usando apenas números zeros em um arquivo 
+de extensão .txt no disco C:
+\
+
+97 - (Caju) Crie uma estrutura de Split que remova todas as vogais do seu nome, e mostre uma string
+como resultado da operacao usando o Stringbuilder para isto.\
+
+
+98 - (Caju) Diferencie de uma forma breve e com exemplos os métodos ReadAllLines e ReadAllText.\
+
+
+99 - (Beringela) Crie um array do tipo string de 3 elementos onde cada elemento possui um valor.
+Logo após, escreva estes 3 elementos  cada um em uma linha em um arquivo txt.\
+
+100 - (Beringela)  Usando a linguagem C#, crie um arquivo txt, onde o que você escreva no mesmo seja
+o que será impresso em seu console.\
+
+101 - (Beringela) Salve num arquivo txt, a string números que tem valor igual a
+"149084993148041938", leia o arquivo txt e somente exiba no console os números maiores que 5.\
+
+102 - (Tamarindo) Dadas as strings: String str = "TROLOLOL"; String str2 = "DUDE"; String str3 =
+"UMAD"; Crie um programa que escreva as três strings em um arquivo .txt, sendo que a primeira e
+segunda strings estão na mesma linha e separadas por um espaço, e a terceira string está em outra
+linha.\
+
+103 - (Tamarindo) Faça um programa que leia um arquivo .txt e exibas as 3 strings contidas nele,
+cada uma em sua linha.\
+
+104 - (Tamarindo) Crie um programa que tenha um array de int (com 6 casas), em que cada casa tenha
+um valor aleatório, e que escreva num arquivo .txt apenas os números das casas 2, 3 e 5.\
+
+105 - (Laranjas)Crie dois programas um que leia as informações e o outra que salve-as. As
+informações são: Nome completo; Idade; Que curso faz.\
